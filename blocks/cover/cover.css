@@ -1,0 +1,6 @@
+.cover {
+  background-image: url(../../images/trains.jpg);
+  max-width: 1184px;
+  margin: 0 auto;
+  background-size: contain;
+}
