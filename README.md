@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-[ссылка]('https://aleksandrdronov.github.io/russian-travel/)
+[ссылка](https://aleksandrdronov.github.io/russian-travel/)
 
 ### Используемые технологии:
 1. HTML
