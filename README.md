@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+# Проект: Научиться-учиться
 
 [ссылка](https://aleksandrdronov.github.io/russian-travel/)
 
