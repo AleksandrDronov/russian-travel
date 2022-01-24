@@ -5,6 +5,7 @@
   color: #AAAAAA;
   margin-top: 0;
   margin-bottom: 12px;
+  text-transform: uppercase;
 }
 
 @media all and (max-width: 425px) {
