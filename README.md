@@ -1,4 +1,4 @@
-# Путешествия по России
+# Путешествия по России. Одностраничный сайт
 
 [ссылка](https://aleksandrdronov.github.io/russian-travel/)
 
